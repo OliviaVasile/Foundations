@@ -1,0 +1,26 @@
+body {
+    background-image:url('see.jpg'); 
+    background-size: cover;
+    padding: 50px;
+    margin: 50px;
+    font-family: 'Signika', sans-serif;
+    font-size:100%;
+    color:#f0f8ff;
+     }
+
+h1{
+	color: #d3d3d3;	
+  }
+h2{
+	color: #00bcd4;	
+}
+
+#div1, #div2 {
+    padding: 28px 32px;
+    border-radius: 0;
+    background-color:#131315);
+             }
+
+.button{
+	background-color:#f5c71a
+	   }
